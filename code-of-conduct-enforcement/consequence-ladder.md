@@ -1,4 +1,4 @@
-Building on this from [Drupal Community](https://www.drupal.org/conflict-resolution), which was remixed from [Django Conflict Management Manual](https://www.djangoproject.com/conduct/enforcement-manual/).
+
 
 The notion of a 'ladder' is that each time we take an action (ban, warning) the individual is made aware of future consequence. That's not to say that someone cannot jump right to a permanent ban, or that we can't jump 'two' steps in the ladder. Rather, it's a way of communicating escalation.
 
